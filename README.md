@@ -1,6 +1,6 @@
 # Hi, I'm Sarthak Sankpale 👋
 
-### Data Engineer | Azure | Python | SQL | PySpark 
+### Data Engineer | Azure Data Engineer | Databricks Engineer | Python | SQL | PySpark 
 
 I'm a **Data Engineer** with hands-on knowledge of **Azure Data Engineering, data pipelines, ETL/ELT and big data technologies**.
 
